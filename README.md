@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**marcydoty/marcydoty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm passionate about programming and technology, with a solid background in the field. I've worked with a range of languages and technologies, including Python, Java for Android, and cloud solutions.
 
-Here are some ideas to get you started:
+Beyond my tech interests, I'm deeply committed to social causes and helping others in various ways. I believe that making a positive impact goes beyond coding, and contributing to society is an essential part of my work and life.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to explore my projects, and if you'd like to chat or collaborate, I'm here for that.
+
+See you around!
+
+<p align="center"> 
+  Number of visits <br>
+  <img src="https://profile-counter.glitch.me/marcydoty/count.svg" />
+</p>
