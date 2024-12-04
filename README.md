@@ -8,7 +8,3 @@ Feel free to explore my projects, and if you'd like to chat or collaborate, I'm 
 
 See you around!
 
-<p align="center"> 
-  Number of visits <br>
-  <img src="https://profile-counter.glitch.me/marcydoty/count.svg" />
-</p>
